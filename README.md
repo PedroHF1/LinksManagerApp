@@ -22,7 +22,7 @@ Este é um aplicativo de **Web Component** que permite criar, editar, excluir e 
 Clone o repositório do GitHub para o seu computador:
 
 ```bash
-git clone https://github.com/seu-usuario/link-list-app.git
+git clone https://github.com/PedroHF1/LinksManagerApp.git
 ```
 
 Instalar a extensão:
