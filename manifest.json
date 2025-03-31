@@ -1,0 +1,20 @@
+{
+  "name": "PWA Links Manager",
+  "short_name": "Links PWA",
+  "start_url": ".",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "icons/links.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/links.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
